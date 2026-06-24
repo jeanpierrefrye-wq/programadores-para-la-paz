@@ -1,0 +1,7 @@
+1: pwd
+2: ls
+3: mkdir semana2
+4: cd semana2
+5: touch preguntas-semana2.txt
+6: touch comandos-terminal.txt
+7: touch reflexion-semana2.txt
