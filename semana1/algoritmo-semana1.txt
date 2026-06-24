@@ -1,0 +1,6 @@
+1: Identificar la noticia o información que se desea compartir.
+2: Investigar la fuente original para verificar su reputación y credibilidad.
+3: Contrastar el contenido con al menos dos medios de comunicación o fuentes oficiales distintas.
+4: Comprobar la fecha de publicación para asegurar que no sea información desactualizada o fuera de contexto.
+5: Analizar el tono del mensaje, evitando difundir aquellos que busquen generar miedo, odio o sensacionalismo.
+6: Publicar o compartir únicamente si la veracidad ha sido confirmada y el aporte resulta constructivo para la comunidad.
