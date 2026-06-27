@@ -1,0 +1,9 @@
+La creación de herramientas propias otorga autonomía a las comunidades.
+Esto reduce la dependencia de grandes corporaciones tecnológicas comerciales.
+Al usar tecnologías abiertas, se eliminan los costos de licencias.
+Node.js permite desarrollar aplicaciones rápidas, eficientes y muy escalables.
+El código abierto garantiza la transparencia y seguridad de los datos.
+Las iniciativas pueden adaptar el software a sus necesidades específicas.
+Se fomenta la colaboración y el aprendizaje colectivo en el proceso.
+Así, los ciudadanos se convierten en creadores y no solo consumidores.
+Esto democratiza el acceso a la innovación y el desarrollo social.
