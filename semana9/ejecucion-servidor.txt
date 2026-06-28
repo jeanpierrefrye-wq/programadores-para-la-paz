@@ -1,0 +1,12 @@
+¿Qué ocurre cuando ejecutas node server.js.? :
+Al lanzar este comando, Node.js toma el control de mi código y pone en marcha el servidor. Básicamente, la terminal se convierte en el "corazón" de la aplicación, manteniendo el proceso activo y listo para recibir cualquier conexión que llegue desde afuera.
+Mensaje en la terminal: Cuando todo arranca correctamente, aparece el aviso: Servidor ejecutándose en puerto 3000. Esto es como una señal de confirmación de que el servidor está encendido y escuchando en ese puerto específico, esperando a que yo interactúe con él.
+Al visitar /estado: En cuanto entro a esa ruta desde el navegador, el servidor detecta la petición y responde instantáneamente enviándome un objeto en formato JSON. Es genial ver cómo aparece la información que configuré, confirmando que el servicio de la "API comunitaria" está funcionando sin problemas y respondiendo tal cual lo programé.
+¿Qué mensaje aparece en la terminal.? :
+Servidor ejecutándose en puerto 3000
+Este mensaje es el que configuraste dentro de la función console.log en el código de tu archivo server.js al final:
+¿Qué sucede cuando visitas la ruta /estado.? :
+Cuando visitas la ruta /estado (en http://localhost:3000/estado), sucede lo siguiente:
+Recepción de la petición: El servidor, que ya está "escuchando" en el puerto 3000, identifica que has realizado una petición GET a una ruta específica denominada /estado.
+Procesamiento: El código de tu archivo server.js ejecuta la función asociada a esa ruta, la cual está programada para construir una respuesta.
+Respuesta del servidor: El servidor responde enviando de vuelta al navegador un objeto en formato JSON.
